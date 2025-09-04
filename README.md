@@ -1,7 +1,7 @@
 
 ## 🌐 Live Demo  
 [**Visit the Online Book Store**]
-(https://bharathstore.netlify.app/)
+https://bharathstore.netlify.app/
 
 
 # 📚 **Online Book Store – Project**
